@@ -1,5 +1,3 @@
-.small
-.data
-.code
+
   
   
